@@ -6,9 +6,9 @@ namespace vjezba1
 {
     class ClassNew
     {
-        static void Main(string[] args)
+        int metoda()
         {
-            Console.WriteLine("U novoj klasi");
+            return 2;
         }
     }
 }
