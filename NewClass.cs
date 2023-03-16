@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 //pas
-namespace vjezbaaa1
+namespace vjezba1
 {
-    class NewClass
+    class ClassNew
     {
         static void Main(string[] args)
         {
