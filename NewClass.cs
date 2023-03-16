@@ -6,5 +6,9 @@ namespace vjezba1
 {
     class ClassNew
     {
+        int metoda()
+        {
+            return 2;
+        }
     }
 }
